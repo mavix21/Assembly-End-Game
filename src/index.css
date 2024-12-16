@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Hanken Grotesk", sans-serif;
+
+  --color-background: oklch(26.86% 0 0);
+  --color-muted: #323232;
+  --color-border: #F9F4DA;
+
+  --color-foreground: #8E8E8E;
+
+  --color-accent: #F9F4DA;
+  --color-honey: #FCBA29;
+}
